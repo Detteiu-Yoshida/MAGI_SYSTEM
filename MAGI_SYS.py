@@ -1,4 +1,4 @@
-#MAGI_SYS.py Ver.1.0 Copyright ©️2021 Chutoro Detteiu(@ctr_exe) All Rights Reserved.
+#MAGI_SYS.py Ver.1.01 Copyright ©️2021 Chutoro Detteiu(@ctr_exe) All Rights Reserved.
 import random
 loop_key = 1
 
@@ -24,7 +24,7 @@ while True:
         for i in range(0,3):
             print(magis_name[i] + yn[magis_yn[i]])
 
-        if magi_output == priority:
+        if magi_output >= priority:
             allover_output = '可決'
         else:
             allover_output = '否決'
