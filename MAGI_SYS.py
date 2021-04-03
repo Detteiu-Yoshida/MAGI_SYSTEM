@@ -30,3 +30,5 @@ while True:
             allover_output = '否決'
 
         print('提訴 ' + start + ' は ' + allover_output + ' されました')
+        if start == '終了' and allover_output == '可決':
+            break
