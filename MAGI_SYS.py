@@ -1,4 +1,4 @@
-#MAGI_SYS.py Ver.1.01 Copyright ©️2021 Chutoro Detteiu(@ctr_exe) All Rights Reserved.
+#MAGI_SYS.py Ver.1.1 Copyright ©️2021 Chutoro Detteiu(@ctr_exe) All Rights Reserved.
 import random
 loop_key = 1
 
