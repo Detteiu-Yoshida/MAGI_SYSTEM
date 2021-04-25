@@ -31,7 +31,7 @@ while True:
         for i in range(0,3):#結果の表示
             print(magis_name[i] + color_list[magis_yn[i]] + yn[magis_yn[i]] + Color.END)
 
-        if magi_output >= priority :
+        if magi_output >= priority :#可決の数がAの数を超えているか判定
             allover_output = '可決'
         else:
             allover_output = '否決'
