@@ -32,10 +32,10 @@ while True:
             print(magis_name[i] + color_list[magis_yn[i]] + yn[magis_yn[i]] + Color.END)
 
         if magi_output >= priority :#承認の数がAの数を超えているか判定
-            allover_output = '承認'
+            allover_output = '可決'
         else:
-            allover_output = '否定'
+            allover_output = '否決'
 
         print('提訴 ' + start + ' は ' + allover_output + ' されました')
-        if start == '終了' and allover_output == '承認':#終了判定
+        if start == '終了' and allover_output == '可決':#終了判定
             break
