@@ -1,4 +1,4 @@
-# MAGI_SYSTEM Ver.1.3
+# MAGI_SYSTEM Ver.1.4
  The MAGI-like council program from Evangelion
  
  まあ説明の通りエヴァンゲリオンに出てくるMAGI風合議プログラムです
