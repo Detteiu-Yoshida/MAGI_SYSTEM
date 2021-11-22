@@ -10,6 +10,8 @@ while True:
         magi_output = ''
         discussion_num = random.randint(0,9999)#ただの乱数
         start = input('提訴内容を入力してください:')
+        if start == "終了":
+            break
         print('CODE:' + str(discussion_num))
         melchior_output = random.randint(0,100)#メルキオールの回答
         balthasar_output = random.randint(0,100)#バルタザールの回答
