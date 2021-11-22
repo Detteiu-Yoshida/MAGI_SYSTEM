@@ -1,4 +1,4 @@
-#MAGI_SYS_proba.py Ver.1.3 Copyright ©️2021 Chutoro Detteiu(@ctr_exe) All Rights Reserved.
+#MAGI_SYS_proba.py Ver.1.0 Copyright ©️2021 Chutoro Detteiu(@ctr_exe) All Rights Reserved.
 import random
 loop_key = 1
 
